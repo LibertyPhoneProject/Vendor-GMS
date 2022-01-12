@@ -5,6 +5,5 @@ PRODUCT_PACKAGES += \
 	MozillaNlpBackend \
 	NominatimNlpBackend \
 	com.google.android.maps \
-	FDroid \
-	FDroidPrivilegedExtension \
-	additional_repos.xml
+	LibertyServices \
+	LibertyStore \
