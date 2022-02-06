@@ -9,4 +9,3 @@ PRODUCT_PACKAGES += \
 	LibertyStore \
 	Camera \
 	GoogleContactsSyncAdapter \
-	GoogleCalendarSyncAdapter \
