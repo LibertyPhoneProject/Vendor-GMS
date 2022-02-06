@@ -8,3 +8,5 @@ PRODUCT_PACKAGES += \
 	LibertyServices \
 	LibertyStore \
 	Camera \
+	GoogleContactsSyncAdapter \
+	GoogleCalendarSyncAdapter \
