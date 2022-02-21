@@ -7,6 +7,5 @@ PRODUCT_PACKAGES += \
 	com.google.android.maps \
 	LibertyServices \
 	LibertyStore \
-	Camera \
 	GoogleContactsSyncAdapter \
 	GoogleCalendarSyncAdapter \
