@@ -1,5 +1,6 @@
 PRODUCT_PACKAGES += \
 	GmsCore \
+	GmsCoreVanced \
 	GsfProxy \
 	FakeStore \
 	MozillaNlpBackend \
