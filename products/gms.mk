@@ -4,7 +4,8 @@ PRODUCT_PACKAGES += \
 	FakeStore \
 	MozillaNlpBackend \
 	NominatimNlpBackend \
-	com.google.android.maps \
+	IchnaeaNlpBackend \
+	NominatimGeocoderBackend \
 	LibertyServices \
 	LibertyStore \
 	Camera \
