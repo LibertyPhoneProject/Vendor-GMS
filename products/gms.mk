@@ -7,5 +7,6 @@ PRODUCT_PACKAGES += \
 	LibertyServices \
 	LibertyStore \
 	Camera \
+	Jelly \
 	GoogleContactsSyncAdapter \
 	GoogleCalendarSyncAdapter \
