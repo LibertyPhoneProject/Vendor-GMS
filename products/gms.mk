@@ -6,7 +6,6 @@ PRODUCT_PACKAGES += \
 	NominatimGeocoderBackend \
 	LibertyServices \
 	LibertyStore \
-	Camera \
 	Jelly \
 	GoogleContactsSyncAdapter \
 	GoogleCalendarSyncAdapter \
